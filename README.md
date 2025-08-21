@@ -9,7 +9,6 @@ You wake up in a mysterious room and must make choices to survive, escape, or fa
 - Multiple story branches with different endings  
 - ASCII art game over screens  
 - Classic "type and choose" adventure gameplay  
-- A hidden password related to **Atatürk’s birth year (1881)**  
 
 ---
 
